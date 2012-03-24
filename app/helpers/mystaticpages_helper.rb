@@ -1,0 +1,2 @@
+module MystaticpagesHelper
+end
